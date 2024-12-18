@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/duyet/modern-data-team#readme",
   "dependencies": {
-    "next": "^13.0.6",
+    "next": "^14.0.0",
     "nextra": "2.13.2",
     "nextra-theme-docs": "2.13.2",
     "react": "^18.2.0",
